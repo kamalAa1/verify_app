@@ -3,8 +3,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-     "package_name": "com.example.droidfood",
+     "package_name": "com.usdc.usdc_faucet",
      "sha256_cert_fingerprints":
-     ["4C:D7:E4:04:B8:54:04:A0:5F:50:35:38:CF:B6:89:3D:35:CE:54:C7:01:8E:ED:78:7A:50:9B:4A:2E:A8:BE:B4"]
+     ["7B:ED:E6:6D:3C:8C:86:BF:32:31:D3:A1:FB:05:35:6F:E9:AB:B7:18:BC:36:67:EF:A4:03:7B:44:E6:70:61:E5"]
     }
  }]
